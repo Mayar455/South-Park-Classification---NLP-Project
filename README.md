@@ -1,6 +1,6 @@
 ### South Park Classification
 
-In the series South Park, there are many different characters, and you want to find out if it is possible to identify which character is speaking based on the text. Since there are many characters in South Park, you decide to focus on Kyle and Cartman.
+In the series South Park, there are many different characters, and i want to find out if it is possible to identify which character is speaking based on the text. Since there are many characters in South Park, i decide to focus on Kyle and Cartman.
 
 ### Task
 
